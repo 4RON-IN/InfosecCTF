@@ -1,0 +1,7 @@
+Usually level 1 ctf wont be much technical,With increase in level the difficulty and technicality increases,
+so below are the steps to find it.
+First what I did is downloaded the image and added colour filters by running python script for range of 255 colour of RGB
+,I didnt get anything.
+So next I tried inspect element,didnt find anything so the next thing was the method where I got the flag i.e Source page:
+Step 1:Right click on the page of image-> step 2:Go to "view page source".
+On the first line there is flag i.e "infosec_flagis_welcome"
